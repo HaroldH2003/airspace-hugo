@@ -78,7 +78,7 @@ logo = "images/logo-landscape-green-small.png"
 mobile = "(+84)287108-1166"
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyChhlT5MlpS8Lhj6Z2tK2EffHlYmMsgbjI&callback=initMap"
 map_latitude = "10.7859956"
 map_longitude = "106.7102614"
