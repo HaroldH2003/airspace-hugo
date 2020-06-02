@@ -75,11 +75,11 @@ email = "info@amcovietnam.com"
 google_analitycs_id = ""
 location = "Unit 4309 - LUX 6, Vinhomes Golden River, Ben Nghe Ward, District 1, HCMC - Vietnam"
 logo = "images/logo-landscape-green-small.png"
-mobile = "(+84) 28 7108-1166"
+mobile = "(+84)287108-1166"
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyChhlT5MlpS8Lhj6Z2tK2EffHlYmMsgbjI&callback=initMap"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyChhlT5MlpS8Lhj6Z2tK2EffHlYmMsgbjI&callback=myMap"
 map_latitude = "10.78648364"
 map_longitude = "106.7102319"
 map_marker = "images/marker.png"
