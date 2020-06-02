@@ -71,11 +71,11 @@ weight = 6
 author = "Harold Hoang"
 contact_form_action = "#"
 description = "Established since 1994, the company is known under the name of AMCO Research Ltd or AMCO Vietnam Ltd.&nbsp;As&nbsp;one of the very first market research fieldwork companies in Vietnam, we are proud to provide world quality Market Research fieldwork services and Business Consultancy Services to both International and Local businesses. AMCO is a member of ESOMAR…"
-email = "demo@email.com"
+email = "info@amcovietnam.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Unit 4309 - LUX 6, Vinhomes Golden River, Ben Nghe Ward, District 1, HCMC - Vietnam"
 logo = "images/logo-landscape-green-small.png"
-mobile = "0124857985320"
+mobile = "(+84) 28 7108-1166"
 multi_author = false
 [params.gmap]
 enable = true
