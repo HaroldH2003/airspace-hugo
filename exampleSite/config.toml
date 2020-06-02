@@ -79,9 +79,9 @@ mobile = "(+84) 28 7108-1166"
 multi_author = false
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = ""
+map_latitude = "10.78648364"
+map_longitude = "106.7102319"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
