@@ -13,12 +13,12 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/vietnamese"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+home = "Trang chủ"
+languageCode = "vi-vn"
+languageName = "Vn"
+weight = "2"
 [[menu.footer]]
 URL = "about"
 name = "About"
