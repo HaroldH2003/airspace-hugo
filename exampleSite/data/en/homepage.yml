@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/rsz_canva_-_asian_kid_riding_a_bicycle.jpg
   title: South East Asia Market Research Specialist
   content: "<strong>PROUD</strong> to be one of the very <strong><i>first<i></strong>
     market research fieldwork companies in Vietnam, we provide <strong><i>world-class</i><strong>
@@ -46,9 +46,9 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: WHY CHOOSE US?
-  content: "<h4>We are known for very <strong><i>rigorous sampling methodology and
-    strict data collection process</i></strong> to ensure the insights collected from
-    the right target.</h4>"
+  content: We are known for very <strong><i>rigorous sampling methodology and strict
+    data collection process</i></strong> to ensure the insights collected from the
+    right target.
   button:
     enable: true
     label: Tell Us Your Story
