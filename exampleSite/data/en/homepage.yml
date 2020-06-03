@@ -46,9 +46,9 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: WHY CHOOSE US?
-  content: "<h4>We are known for very <strong><i>rigorous sampling methodology and
-    strict data collection process</i></strong> to ensure the insights collected from
-    the right target.</h4>"
+  content: We are known for very <strong><i>rigorous sampling methodology and strict
+    data collection process</i></strong> to ensure the insights collected from the
+    right target.
   button:
     enable: true
     label: Tell Us Your Story
