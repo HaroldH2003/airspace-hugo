@@ -2,11 +2,11 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: South East Asia <br> Market Research Specialist
-  content: "<b>PROUD</b> to be one of the very <br><i>first<i></br> market research
-    fieldwork companies in Vietnam, we provide <br><i>world-class</i><br> quality
-    Market Research fieldwork services and Business Consultancy Services to both International
-    and Local businesses."
+  title: South East Asia Market Research Specialist
+  content: "<strong>PROUD</strong> to be one of the very <strong><i>first<i></strong>
+    market research fieldwork companies in Vietnam, we provide <strong><i>world-class</i><strong>
+    quality Market Research fieldwork services and Business Consultancy Services to
+    both International and Local businesses."
   button:
     enable: true
     label: Learn More
